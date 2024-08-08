@@ -18,9 +18,13 @@
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/joonaschristiano/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonas-christiano-1457271b2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jonaschristiano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/JonasChristiano/JonasChristiano/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/JonasChristiano/JonasChristiano/blob/output/github-contribution-grid-snake.svg)-->
  
+</div>
+
+<div>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/667c35f1c19525099e8e1836?variant=dark&roadmaps=devops%2Cpython%2Cdata-analyst%2Clinux" alt="roadmap.sh"/></a>
+
 </div>
